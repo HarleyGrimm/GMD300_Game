@@ -1,0 +1,4 @@
+repository "GMD300_Game@SoulSociety@cloud"
+  path "/"
+    br "/main"
+    co "/main"
